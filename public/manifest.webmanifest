@@ -1,0 +1,21 @@
+{
+    "short_name": "Budgeter",
+    "name": "Active Budgeter",
+    "description": "A budget tracking app with offline functionality",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#FF8D33",
+    "display": "standalone",
+    "theme_color": "#072086"
+  }
